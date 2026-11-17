@@ -1,0 +1,55 @@
+body {
+    background-color: #FFF8F0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #76523E;
+}
+
+p {
+    color: #8B735B;
+    font-size: 18px;
+}
+
+table {
+    width: 80%;
+    margin: 30px auto;
+    background-color: white;
+}
+
+th, td {
+    
+    padding: 15px;
+}
+
+/* Table Header */
+th {
+    background-color: #76523E;
+    color: white;
+}
+
+/* Class Selectors */
+
+.core-subject {
+    background-color: #DCEBFA;
+}
+
+.language {
+    background-color: #DDF0E3;
+}
+
+.other-subject {
+    background-color: #FCE4D6;
+}
+
+/* ID Selectors */
+
+#weekly-project {
+    background-color: #E5DDF5;
+}
+
+#science-lab {
+    background-color: #FFE6A7;
+}
